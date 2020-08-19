@@ -1228,5 +1228,5 @@
   <string name="otc_ad_batch_unpublish_result">选中%1$d个广告，成功下架%2$d个, 失败%3$d个</string>
   <string name="otc_ad_batch_republish_result">选中%1$d个广告，成功上架%2$d个, 失败%3$d个</string>
   <string name="batch_operator">批量操作</string>
-  <string name="equivalent_describe">此处估值是根据广告报价得出的汇率计算的，汇率计算公式为：广告的NGN价格÷币种美元实际价格</string>
+  <string name="equivalent_describe">此处估值是根据广告报价得出的汇率计算的，汇率计算公式为：广告的NGN价格➗币种美元实际价格</string>
 </resources>
